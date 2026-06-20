@@ -163,10 +163,6 @@ header.nav {
   text-transform: uppercase; color: var(--ink-faint); text-align: center;
   padding: 0 20px;
 }
-.headshot::before {
-  content: "✦"; position: absolute; top: 12px; left: 14px;
-  color: var(--rust); font-size: 13px;
-}
 
 .side-meta { margin-top: 22px; }
 .side-meta dl { display: grid; grid-template-columns: auto 1fr; gap: 6px 14px; }
